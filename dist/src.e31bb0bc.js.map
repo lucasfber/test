@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/a.js","index.js"],"names":["A","console","log"],"mappings":";;ACAA;;;;;ADAA,IAAMA,CAAC,GAAG,SAAJA,CAAI,GAAM;AACZC,EAAAA,OAAO,CAACC,GAAR,CAAY,aAAZ;AACH,CAFD;;eAIeF","file":"src.e31bb0bc.js","sourceRoot":"..\\src","sourcesContent":["const A = () => {\r\n    console.log('calling A()');\r\n}\r\n\r\nexport default A","import A from './js/a'\r\n"]}
