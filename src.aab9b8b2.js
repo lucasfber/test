@@ -5,4 +5,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./scss/style.scss");var e=s(require("./js/a"));function s(e){return e&&e.__esModule?e:{default:e}}(0,e.default)();
 },{"./scss/style.scss":"Gg4U","./js/a":"C7gU"}]},{},["Focm"], null)
-//# sourceMappingURL=https://lucasfber.github.io/test/src.99a841b2.js.map
+//# sourceMappingURL=https://lucasfber.github.io/test/src.aab9b8b2.js.map
